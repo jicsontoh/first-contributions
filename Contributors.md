@@ -7665,3 +7665,4 @@ Pooja Muthalik
 - [Daniel Chung](https://github.com/dolphinOfDelphi)
 - [Simon S.](https://github.com/stisimon)
 - [Davi Yan](https://github.com/daviyan5)
+- [Jicson Toh](https://github.com/jicsontoh)
