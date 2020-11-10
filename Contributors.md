@@ -7626,7 +7626,6 @@ Pooja Muthalik
 - [Jerel Crespo](https://github.com/CodigosCrespo)
 - [Marcelo Nogueira](https://github.com/locemarn)
 - [Vivine Assokane](https://github.com/Pondy007)
-- [Jicson Toh](https://github.com/jicsontoh)
 - [常轩](https://github.com/chxcode)
 - [Tri Minh Tran](https://github.com/Tris-909)
 - [Ale Rodríguez](https://github.com/rgaezsd)
